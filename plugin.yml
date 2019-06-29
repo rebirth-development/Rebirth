@@ -1,0 +1,16 @@
+name: Rebirth
+version: 2.0.4
+main: me.tyler.rebirth.Rebirth
+author: buildcarter8
+description: plugin for Rebirth 2
+commands: 
+  rb:
+   description: Info for Rebirth
+  vote:
+   description: Vote for a player running
+  parties:
+   description: lists the political parties of rebirth.
+  rban:
+   description: Perm. Ban a player by UUID, Name and, IP
+  hoes:
+   description: HOES MAD
